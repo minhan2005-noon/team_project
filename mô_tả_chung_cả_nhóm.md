@@ -18,7 +18,6 @@ vì nhánh main là nhánh để demo sản phẩm rất dễ sai
 
 tuyệt đối không:
 - không push folder he_thong_moi_truong lên nhánh dù là nhánh phụ hay chính
-- ko push docker
 - ko push tài_liệu_dự_án vì nó là chất xám của nhóm
 
 chỉ được phép:
